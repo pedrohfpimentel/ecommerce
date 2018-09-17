@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\pedrohfpimentel\\php-classes\\src"
+            "": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
