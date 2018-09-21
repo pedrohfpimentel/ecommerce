@@ -30,6 +30,9 @@ class User extends  Model{
 
 			$user->setiduser($data["iduser"]);
 
+			var_dump($user);
+			exit;
+
 		} else {
 			throw new \Exception("Usuario inexistente ou senha invalida", 1);
 		}
